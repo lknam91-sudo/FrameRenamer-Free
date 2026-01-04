@@ -5,6 +5,22 @@ Designed for video editors, VFX artists, animators, and content creators.
 
 ---
 
+## 🔽 Download
+
+👉 **Latest Release (Windows – Portable)**  
+https://github.com/Iknam91-sudo/FrameRenamer-Free/releases/latest
+
+---
+
+## 🚀 Quick Start
+
+1. Download the latest release
+2. Extract the ZIP file
+3. Run `FrameRenamer.exe`
+4. Select your image sequence folder
+
+---
+
 ## Features (Free Edition)
 
 - Folder selection for image sequences
@@ -45,12 +61,29 @@ This is the **Free Edition**.
 
 ## Future Updates
 
-This Free Edition may receive improvements and bug fixes.  
-Advanced features are planned for future versions.
+This is a free tool. Advanced features may be added in future versions.
 
 ---
 
+## 🔗 Download Link
+
+Latest Windows portable release:  
+https://github.com/Iknam91-sudo/FrameRenamer-Free/releases/latest
+
+---
+
+## ❤️ Support the Developer
+
+If you find this tool useful, you can support its development:
+
+- ☕ Buy me a coffee
+- 💖 GitHub Sponsors
+- 💸 PayPal donation
+
+Supporting is completely optional and never required to use this tool.
+
 ## Author
 
-FrameRenamer by **LeKimNam**  
-📧 Contact: lknam91@gmail.com
+**LeKimNam**  
+FrameRenamer – Image Sequence Tool  
+📧 lknam91@gmail.com
