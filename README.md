@@ -8,7 +8,7 @@ Designed for video editors, VFX artists, animators, and content creators.
 ## 🔽 Download
 
 👉 **Latest Release (Windows – Portable)**  
-https://github.com/Iknam91-sudo/FrameRenamer-Free/releases/latest
+https://github.com/lknam91-sudo/FrameRenamer-Free/releases/latest
 
 ---
 
@@ -68,7 +68,7 @@ This is a free tool. Advanced features may be added in future versions.
 ## 🔗 Download Link
 
 Latest Windows portable release:  
-https://github.com/Iknam91-sudo/FrameRenamer-Free/releases/latest
+https://github.com/lknam91-sudo/FrameRenamer-Free/releases/latest
 
 ---
 
